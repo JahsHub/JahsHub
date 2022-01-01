@@ -8,6 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahsHub&layout=compact&theme=tokyonight)
 
+
+https://discord.gg/QxHF74JTdk
+
+
 ```
        ███      ▄██████▄  ▀████    ▐████▀  ▄█   ▄████████      ███    █▄      ███      ▄█   ▄█        ▄█      ███     ▄██   ▄   
    ▀█████████▄ ███    ███   ███▌   ████▀  ███  ███    ███      ███    ███ ▀█████████▄ ███  ███       ███  ▀█████████▄ ███   ██▄ 

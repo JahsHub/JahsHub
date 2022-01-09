@@ -14,7 +14,7 @@ Click to join the discord.
 
 My Discord
 
-<img align="center" src="https://discord.c99.nl/widget/theme-1/883118343035453510.png" />
+<img align="center" src="https://discord.c99.nl/widget/theme-1/883118343035453510.png"/>
 
 
 ```

@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahsHub&layout=compact&theme=tokyonight)
 
-[![](https://discordapp.com/api/guilds/876227875248934952/embed.png?style=banner2)](https://discord.gg/QxHF74JTdk) 
+[![](https://discordapp.com/api/guilds/876227875248934952/embed.png?style=banner2)](https://discord.gg/SQDPEV3fQ2) 
 
 Click to join the discord.
 

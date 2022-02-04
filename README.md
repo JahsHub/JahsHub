@@ -1,11 +1,6 @@
 
 
 <h1 align="center">Hi, I'm Jah<h1>
-<h3 align="left">Developer</h3>
-
-## What I'm listening to
- [![Spotify](https://novatorem-m5ldv9e20-JahsHub.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Jahnsdf)
-
 
 ![JahsHub's github stats](https://github-readme-stats.vercel.app/api?username=JahsHub&theme=tokyonight)
 

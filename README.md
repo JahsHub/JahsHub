@@ -4,14 +4,14 @@
 <h3 align="left">Developer</h3>
 
 ## What I'm listening to
- [![Spotify](https://novatorem-m5ldv9e20-Jahnsdf.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Jahnsdf)
+ [![Spotify](https://novatorem-m5ldv9e20-JahsHub.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Jahnsdf)
 
 
 ![JahsHub's github stats](https://github-readme-stats.vercel.app/api?username=JahsHub&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahsHub&layout=compact&theme=tokyonight)
 
-[![](https://discordapp.com/api/guilds/876227875248934952/embed.png?style=banner2)](https://discord.gg/SQDPEV3fQ2) 
+[![](https://discordapp.com/api/guilds/934320557913149460/embed.png?style=banner2)](https://discord.gg/SQDPEV3fQ2) 
 
 Click to join the discord.
 
